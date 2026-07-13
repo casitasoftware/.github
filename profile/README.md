@@ -7,10 +7,10 @@ don't ask for a subscription, and are made to be enjoyed by everyone.
 
 ---
 
-### [Uncorked](https://github.com/grubwire/Uncorked) 'macOS' 'Wine' 'Whisky' 
+### [Crosswire](https://grubwire.io/crosswire/)
 
 Run Windows apps and games on your Mac. No Terminal, no scripts, just
 download and go.
 
-A fork of Whisky, kept current with Gcenx's Wine builds. Whisky is no
-longer maintained; Uncorked carries it forward.
+A fork of Whisky, kept current with Gcenx's Wine builds. Whisky was
+archived in April 2025; Crosswire carries it forward.
