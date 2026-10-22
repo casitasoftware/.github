@@ -1,16 +1,15 @@
-## Grubwire
+## Casita Software
 
-An independent software studio. We build apps that do what they say,
-don't ask for a subscription, and are made to be enjoyed by everyone.
+Apps for Mac and iOS.
 
-**[grubwire.io](https://grubwire.io)**
+**[casitasoftware.com](https://casitasoftware.com)**
 
 ---
 
-### [Crosswire](https://grubwire.io/crosswire/)
+### [Crosswire](https://casitasoftware.com/crosswire/)
 
-Run Windows apps and games on your Mac. No Terminal, no scripts, just
-download and go.
+Run Windows apps and games on your Mac without Terminal or Homebrew.
+Windows support ships inside the app.
 
-A fork of Whisky, kept current with Gcenx's Wine builds. Whisky was
-archived in April 2025; Crosswire carries it forward.
+A fork of Whisky, which was archived in April 2025. Free and open source
+under GPL-3.0. Source: [crosswire-source](https://github.com/casitasoftware/crosswire-source).
